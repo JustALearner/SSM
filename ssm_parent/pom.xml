@@ -17,7 +17,7 @@
         <module>../ssm_search</module>
     </modules>
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven-compiler-plugin>3.8.1</maven-compiler-plugin>
         <maven-resources-plugin>3.1.0</maven-resources-plugin>
         <mybatis-spring>2.0.2</mybatis-spring>
